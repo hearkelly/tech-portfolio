@@ -3,12 +3,9 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
-
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+*Recently* I created a data flow diagram for a restaurant ordering system, in which order data passes between program functions and data tables.
 
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![](./assets/dataflow-orders.png)
