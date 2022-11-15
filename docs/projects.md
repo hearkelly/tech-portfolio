@@ -8,4 +8,4 @@ title: Projects
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-[](./assets/dataflow-orders.png)
+![data flow diagram](./assets/dataflow-orders.jpg)
