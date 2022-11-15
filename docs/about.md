@@ -3,29 +3,29 @@ id: about
 title: About
 ---
 
-I am currently attending GHC20 (Grace Hopper Celebration 2020). I began this portfolio in a workshop and it is the greatest idea ever!
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+Name	Justin Branch
+Loc		Durham, NC
 
-1. Your current position
-2. Organizations you're involved with
-3. Your personal and professional values
-4. Hobbies or fun facts
+## EDU
 
-Write it in first (I) or third (Your Name Here) person.
+- Wake Tech, AA Computer Dev, exp grad Spring 2023
+	- Python			1 year
+	- Java				6 months
+	- HTML/CSS/JS		integrated
+	- MySQL (+Oracle)	6 months
+	- Acquainted with: Ruby, Markdown
+- UNC-Chapel Hill, BA History, grad May 2010
+	- 
 
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+## WORK
 
-## Current Role
+- Current: Whole Foods
+- Previous: architecture office admin; executive assistant & personal assistant; art handling, installation and de-installation; cafe barista & cook; multimedia assistant
 
-Grace Hopper Celebration Attendee
+## PLAY
 
-## Recognition
+- Sewing
+- Design & Construction of Art Ideas
+- Art Handling
+- Photo Darkroom, Wet (Analog) Process
 
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-See the bottom of my website pages.
